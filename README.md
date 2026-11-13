@@ -1,5 +1,7 @@
 # Investment Challenge — the leaderboard that updates itself
 
+*For the portfolio competition in **Introduction to Accounting** (2026–2027).*
+
 **Demo version — all students and portfolios here are made up.**
 
 ## What is this?
