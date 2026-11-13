@@ -1,5 +1,10 @@
 # Portfolio Challenge — self-updating dashboard (demo)
 
+> **Help for teachers: automated weekly updates for the investment challenge
+> leaderboard.** No manual price lookups, no hand-edited HTML — drop the
+> students' Excel files into the repo, the dashboard updates and publishes
+> itself.
+
 **All data in this repo is fake. The 20 students, usernames and portfolios are
 fabricated for demonstration.**
 
